@@ -5,6 +5,7 @@
 🎤 Like to share my knowledge</br>
 
 ## About Me
+
 I am a React Developer and Full Stack (MERN) Developer with 8 years of experience. I offer unlimited revisions till the satisfaction of my clients. My biggest strengths are the ability to think out of the box, a strong work ethic, and working well under pressure. I believe I'll be excellent for your project.
 
 I provide Font-end web developers such as:-
@@ -13,9 +14,10 @@ I provide Font-end web developers such as:-
 =) Build React js Functional component / React library
 =) Good experience in Node.js
 
-#Skills and Expreience
-#####⚛ React (Latest version)
-#####📱 React Native
+# Skills and Expreience
+
+##### ⚛ React (Latest version)</br>
+##### 📱 React Native</br>
 
 
 
