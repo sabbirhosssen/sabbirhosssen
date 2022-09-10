@@ -16,20 +16,20 @@ I provide Font-end web developers such as:-
 
 # Skills and Expreience
 </br>
-#### 🖥🍭 Front-end Technology</b>
-##### ⚛ React (Latest version)</br>
-##### 📱  React Native</br>
-##### ✡ Javascript (ES6)</br>
-##### ✴ HTML 5</br>
-##### ✳ CSS 3</br>
-######  ↪ Bootstrap 5</br>
-######  ↪ Tailwind CSS</br>
-######  ↬ Material-UI (React UI tools)</br>
+####   🖥🍭 Front-end Technology</br>
+#####  ⚛ React (Latest version)</br>
+#####  📱  React Native</br>
+#####  ✡ Javascript (ES6)</br>
+#####  ✴ HTML 5</br>
+#####  ✳ CSS 3</br>
+######   ↪ Bootstrap 5</br>
+######   ↪ Tailwind CSS</br>
+######   ↬ Material-UI (React UI tools)</br>
 </br>
-#### ⚙🛠 Backend Technology</br>
-##### 🔗⚒🎆 Node js
-##### 🔗🔏 express.js
-##### 🔐 mongoDB
+####  ⚙🛠 Backend Technology</br>
+#####  🔗⚒🎆 Node js
+#####  🔗🔏 express.js
+#####  🔐 mongoDB
 
 
 Here are some ideas to get you started:
