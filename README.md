@@ -14,8 +14,8 @@ I provide Font-end web developers such as:-
 =) Build React js Functional component / React library
 =) Good experience in Node.js
 
-# Skills and Expreience
-</br>
+# Skills and Expreience 
+
 ####   🖥🍭 Front-end Technology</br>
 #####  ⚛ React (Latest version)</br>
 #####  📱  React Native</br>
@@ -25,11 +25,11 @@ I provide Font-end web developers such as:-
 ######   ↪ Bootstrap 5</br>
 ######   ↪ Tailwind CSS</br>
 ######   ↬ Material-UI (React UI tools)</br>
-</br>
+
 ####  ⚙🛠 Backend Technology </br>
-#####  🔗⚒🎆 Node js
-#####  🔗🔏 express.js
-#####  🔐 mongoDB
+#####  🔗⚒🎆 Node js</br>
+#####  🔗🔏 express.js</br>
+#####  🔐 mongoDB</br>
 
 
 Here are some ideas to get you started:
