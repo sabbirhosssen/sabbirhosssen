@@ -17,13 +17,13 @@ I provide Font-end web developers such as:-
 # Skills and Expreience 
 
 ####   🖥🍭 Front-end Technology</br>
-#####  ⚛ React (Latest version)</br>
-#####  📱  React Native</br>
-#####  ✡ Javascript (ES6)</br>
+#####  ⚛ React (Latest version)
+#####  📱  React Native
+#####  ✡ Javascript (ES6)
 #####  ✴ HTML 5</br>
-#####  ✳ CSS 3</br>
-######   ↪ Bootstrap 5</br>
-######   ↪ Tailwind CSS</br>
+#####  ✳ CSS 3
+######   ↪ Bootstrap 5
+######   ↪ Tailwind CSS
 ######   ↬ Material-UI (React UI tools)</br>
 
 ####  ⚙🛠 Backend Technology </br>
