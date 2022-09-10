@@ -29,10 +29,10 @@ I provide Font-end web developers such as:-
 ####  ⚙🛠 Backend Technology </br>
 #####  🔗⚒🎆 Node js</br>
 #####  🔗🔏 express.js</br>
-#####  🔐 mongoDB</br>
+#####   🔐 mongoDB</br>
 
 
-Here are some ideas to get you started:
+# Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
