@@ -98,9 +98,15 @@
   <a href="https://nextjs.org/" target="blank"><img align="center"  src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs"  height="40" width="50" /></a>
 </p>
 
-![snake gif](https://github.com/sabbirhosssen/sabbirhosssen/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sabbirhosssen/sabbirhosssen/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-<p><img align="right" alt="Coding" width="400" height="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirhosssen" alt="sabbirhosssen" /></p>
+<p><img align="right" alt="Coding" width="350"  src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirhosssen" alt="sabbirhosssen" /></p>
 <p>&nbsp;<img width align="left" alt="Coding" width="350"  src="https://github-readme-stats.vercel.app/api?username=sabbirhosssen&show_icons=true&locale=en" alt="sabbirhosssen" /></p>
 
 
