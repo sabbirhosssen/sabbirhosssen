@@ -107,7 +107,7 @@
 </div>
 
 <p><img align="right" alt="Coding" width="350"  src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirhosssen" alt="sabbirhosssen" /></p>
-<p>&nbsp;<img width align="left" alt="Coding" width="350"  src="https://github-readme-stats.vercel.app/api?username=sabbirhosssen&show_icons=true&locale=en" alt="sabbirhosssen" /></p>
+<p>&nbsp;<img width align="left" alt="Coding" width="300"  src="https://github-readme-stats.vercel.app/api?username=sabbirhosssen&show_icons=true&locale=en" alt="sabbirhosssen" /></p>
 
 
 
