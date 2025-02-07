@@ -106,8 +106,8 @@
   <br/>
 </div>
 <div display="flex" align="center">
-<p><img align="right" alt="Coding" width="40%"  src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirhosssen" alt="sabbirhosssen" /></p>
-<p><img align="left" alt="Coding" width="40%"  src="https://github-readme-stats.vercel.app/api?username=sabbirhosssen&show_icons=true&locale=en" alt="sabbirhosssen" /></p>
+<p><img align="right" alt="Coding" width="46%"  src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirhosssen" alt="sabbirhosssen" /></p>
+<p><img align="left" alt="Coding" width="46%"  src="https://github-readme-stats.vercel.app/api?username=sabbirhosssen&show_icons=true&locale=en" alt="sabbirhosssen" /></p>
   
 </div>
 
