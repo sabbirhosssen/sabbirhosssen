@@ -77,7 +77,7 @@
 
 <div>
 <h3 align="left">Others Tools & Framework:</h3>
-<br>
+
 <p align="left" >
   <a href="https://www.linux.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="50" width="60" ></a>
   <a href="" target="blank"><img align="center"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqJBu4yZJ1cl0Ub6YFaz_GwhV_sJJUo4ucPlb9cmbtOwy4Ir1f3fKVuyBLYS0AhHCJNPw&usqp=CAU" alt="express" height="40" width="40" ></a>
@@ -96,20 +96,32 @@
   <a href="https://heroku.com" target="blank"><img align="center"  src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" height="40" width="50" /></a>
   <a href="https://www.netlify.com/" target="blank"><img align="center"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTDzUaLo4IqZv3f0sIOpSBv0Yf9MEyrZJHTitvrPxNTAwCpw7c_y9KeT2Fwr2gxTs0T8c&usqp=CAU" alt="heroku" height="40" width="50" /></a>
   <a href="https://nextjs.org/" target="blank"><img align="center"  src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs"  height="40" width="50" /></a>
-</p><br/>
+</p>
 </div>
+
+<br/>
+<div display="flex" align="center">
+    <p><img align="right" alt="Coding" width="47%"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sabbirhosssen&theme=tokyonight" alt="sabbirhosssen" /></p>
+    <p><img align="left" alt="Coding" width="47%"  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sabbirhosssen&theme=tokyonight" alt="sabbirhosssen" /></p>
+  
+</div>
+<br/><br/>
+ 
+ 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sabbirhosssen/sabbirhosssen/output/github-contribution-grid-snake.svg" />
+  <br/>
+  <h2 align="center">🐍 My Contributions 🐍</h2>
+ 
+  <img  width="94%"  alt="snake eating my contributions" src="https://raw.githubusercontent.com/sabbirhosssen/sabbirhosssen/output/github-contribution-grid-snake.svg" />
   
   <br/>
 </div>
-<div display="flex" align="center">
-<p><img align="right" alt="Coding" width="46%"  src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirhosssen" alt="sabbirhosssen" /></p>
-<p><img align="left" alt="Coding" width="46%"  src="https://github-readme-stats.vercel.app/api?username=sabbirhosssen&show_icons=true&locale=en" alt="sabbirhosssen" /></p>
-  
+<br/>
+<div align="center">
+  <p><img align="center" alt="Coding" width="94%"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabbirhosssen&theme=tokyonight" alt="sabbirhosssen" /></p>
 </div>
+
+
 
 
 
